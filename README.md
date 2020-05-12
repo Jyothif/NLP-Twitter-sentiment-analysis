@@ -1,1 +1,2 @@
-# NLP-Twitter-sentiment-analysis
+**Overview of the Project**
+NLP Twitter Sentiment Analysis
