@@ -10,13 +10,18 @@
 
 * In simple terms,it involves classifying a text as positive, negative or neutral.
 
+
+![](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis/blob/master/images/download%20(1).png)
+
+![](https://github.com/Jyothif/NLP-Twitter-sentiment-analysis/blob/master/images/download%20(2).png)
+
 ## Objective
 _ In this will solve sentiment analysis problem using Python.
 
-__ 1. Text Preprocessing
-__ 2. Data Exploration
-__ 3. Feature Extraction
-__ 4. Model Building
+**1. Text Preprocessing
+**2. Data Exploration
+**3. Feature Extraction
+**4. Model Building
 
 
 
