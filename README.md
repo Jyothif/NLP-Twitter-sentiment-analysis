@@ -5,16 +5,16 @@
 * It is a set of methods and techniques used for extracting subjective infromation from text or speech,such as attitudes.
 * In simple terms,it involves classifying a text as positive, negative or neutral.
 
-# code and Resources :
-* **Python:**
-* **Packages:**
-* **Jupyter Notebook:** 
-* **Resource of the Dataset:*
-
-
-# Data Collection
+# code and Resources
+* **Python:** 3.7
+* **Packages:** Numpy,Pandas, Matplotlib, Textblob, Wordcloud,
+* **Jupyter Notebook:** 6.0.3
+* **Resource of the Dataset:* https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
 
 # Data Cleaning
+
+
+
 
 # Exploratory Data Analysis(EDA)
 
