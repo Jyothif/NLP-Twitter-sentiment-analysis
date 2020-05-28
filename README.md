@@ -48,14 +48,36 @@
       * True Negative(TN)
       * False Positive(FP)
       * False Negative(FN)
+      
   
-        
- 
-        
-
-
-
+      
 # Model Performance
+
+* By using Evaluation Metric F1 Score uisng 
+
+**Logistic Regression model**
+  
+   * BOW( Bag of word) : 53.04
+   * Tf-idf feature score : 54.46
+   * Word2Vec Faeture Score :
+   * Doc2Vec Feature Score : 40.06
+   
+   
+   **Support Vector Machine(SVM**
+  
+   * BOW( Bag of word) : 50.88
+   * Tf-idf feature score : 51.04
+   * Word2Vec Faeture Score :
+   * Doc2Vec Feature Score : 24.38
+   
+   
+   
+   
+   
+   
+
+   
+ 
 
 
 
