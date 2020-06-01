@@ -7,7 +7,20 @@
 
 # code and Resources
 * **Python:** 3.7
-* **Packages:** `Numpy`,`Pandas`,`Matplotlib`,`Seaborn`,`Matplotlib`,`re`,`NLTK`,`gensim`,`sklearn`,`WordCloud`
+* **Packages:** `Numpy`,`Pandas`,`Matplotlib`,`Seaborn`,`Matplotlib`,`re`,`NLTK`,`gensim`,`sklearn`,`WordCloud`,`Word2Vec`
+
+* **Installation:** by conda run  prompt
+
+    * **Gensim:** **`conda install -c anaconda gensim`**
+    * **Word2vec:** **`conda install -c anaconda word2vec`**   
+    * **Wordcloud:** **`conda install -c conda-forge wordcloud`**
+    
+    
+ 
+         
+
+     
+
 * **Jupyter Notebook:** 6.0.3
 * **Dataset Resource:** https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/
 
